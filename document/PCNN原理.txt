@@ -1,0 +1,6 @@
+一个句子表示为m*d，m为单词个数，d为embedding维度
+卷积核kernel选择为w*d，则每个句子矩阵m*d经过kernel得到的feture map为一个向量c，维度为1*(s+w-1)，w取3
+filter是多个kernel叠加的，维度为n，即n个filter。最终一个句子表示成s*n的矩阵，通过e1 e2位置，piecewise maxpooling，再拼接
+得到[n,n,n]一个3n向量
+
+最终是将m*d矩阵变成一个向量 3n，n表示filter个数,
