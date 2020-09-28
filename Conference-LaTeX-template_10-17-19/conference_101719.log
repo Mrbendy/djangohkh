@@ -1,9 +1,12 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.2.7)  31 MAY 2020 22:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.30)  22 SEP 2020 15:57
 entering extended mode
-**c:/Users/27946/Downloads/Conference-LaTeX-template_10-17-19/conference_101719
-(c:/Users/27946/Downloads/Conference-LaTeX-template_10-17-19/conference_101719.tex
-LaTeX2e <2018-12-01>
-(c:\Users\27946\Downloads\Conference-LaTeX-template_10-17-19\IEEEtran.cls
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/djangohkh/Conference-LaTeX-template_10-17-19/conference_101719.tex
+(d:/djangohkh/Conference-LaTeX-template_10-17-19/conference_101719.tex
+LaTeX2e <2019-10-01> patch level 1
+(d:/djangohkh/Conference-LaTeX-template_10-17-19/IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -14,8 +17,8 @@ Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 \@IEEEtrantmpcountB=\count81
 \@IEEEtrantmpcountC=\count82
 \@IEEEtrantmptoksA=\toks14
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
-("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(c:/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
@@ -101,42 +104,42 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtranrubishbin=\box28
 )
 ** ATTENTION: Overriding command lockouts (line 2).
-(c:\Users\27946\Downloads\Conference-LaTeX-template_10-17-19\cite.sty
+(d:/djangohkh/Conference-LaTeX-template_10-17-19/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2018/12/01 v2.17b AMS math features
+) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/04/01 v2.17c AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+ (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
 \ex@=\dimen126
-)) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+)) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen127
-) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count95
-LaTeX Info: Redefining \frac on input line 223.
+LaTeX Info: Redefining \frac on input line 227.
 \uproot@=\count96
 \leftroot@=\count97
-LaTeX Info: Redefining \overline on input line 385.
+LaTeX Info: Redefining \overline on input line 389.
 \classnum@=\count98
 \DOTSCASE@=\count99
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
 \Mathstrutbox@=\box29
 \strutbox@=\box30
 \big@size=\dimen128
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \macc@depth=\count100
 \c@MaxMatrixCols=\count101
 \dotsspace@=\muskip10
@@ -157,35 +160,36 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \multlinegap=\skip45
 \multlinetaggap=\skip46
 \mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
-) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+LaTeX Info: Redefining \[ on input line 2855.
+LaTeX Info: Redefining \] on input line 2856.
+) (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+ (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+)) (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
-) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen135
 \Gin@req@width=\dimen136
-) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+) (c:/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -199,12 +203,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+ (c:/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
-File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+ (c:/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -274,6 +278,8 @@ File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+25E6 (decimal 9702)
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
    defining Unicode char U+FEFF (decimal 65279)
 ))
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -338,9 +344,9 @@ Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
 Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
-) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+) (c:/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -353,7 +359,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (c:\Users\27946\Downloads\Conference-LaTeX-template_10-17-19\footmisc.sty
+) (d:/djangohkh/Conference-LaTeX-template_10-17-19/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks21
 \footnotemargin=\dimen137
@@ -364,8 +370,9 @@ Package footmisc Info: Declaring symbol style wiley on input line 872.
 Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
 Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
-)
-No file conference_101719.aux.
+) (d:/djangohkh/Conference-LaTeX-template_10-17-19/conference_101719.aux)
+\openout1 = `conference_101719.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
@@ -379,14 +386,14 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 12.
-("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 12.
+ (c:/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 12.
 
 -- Lines per column: 56 (exact).
-("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii"
+(c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count108
 \scratchdimen=\dimen138
@@ -399,33 +406,28 @@ LaTeX Font Info:    ... okay on input line 12.
 \MPnumerator=\count112
 \makeMPintoPDFobject=\count113
 \everyMPtoPDFconversion=\toks23
-) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+) (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+ (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+) (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+ (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+ (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-))) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+))) (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+ (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+ (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+ (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-))) ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+)))) (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+ (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -437,14 +439,16 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
+ (c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 35.
-LaTeX Font Info:    Try loading font information for U+msa on input line 35.
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+ (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 35.
- ("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+ (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
@@ -490,38 +494,54 @@ LaTeX Warning: Citation `ZHOU2018240' on page 1 undefined on input line 64.
 LaTeX Warning: Citation `goodfellow2014explaining' on page 1 undefined on input line 75.
 
 
-c:/Users/27946/Downloads/Conference-LaTeX-template_10-17-19/conference_101719.tex:81: Package inputenc Error: Unicode character 收 (U+6536)
+d:/djangohkh/Conference-LaTeX-template_10-17-19/conference_101719.tex:81: Package inputenc Error: Unicode character 收 (U+6536)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 }
+      
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-c:/Users/27946/Downloads/Conference-LaTeX-template_10-17-19/conference_101719.tex:81: Package inputenc Error: Unicode character 稿 (U+7A3F)
+d:/djangohkh/Conference-LaTeX-template_10-17-19/conference_101719.tex:81: Package inputenc Error: Unicode character 稿 (U+7A3F)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 }
+      
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-c:/Users/27946/Downloads/Conference-LaTeX-template_10-17-19/conference_101719.tex:81: Package inputenc Error: Unicode character 日 (U+65E5)
+d:/djangohkh/Conference-LaTeX-template_10-17-19/conference_101719.tex:81: Package inputenc Error: Unicode character 日 (U+65E5)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 }
+      
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-c:/Users/27946/Downloads/Conference-LaTeX-template_10-17-19/conference_101719.tex:81: Package inputenc Error: Unicode character 期 (U+671F)
+d:/djangohkh/Conference-LaTeX-template_10-17-19/conference_101719.tex:81: Package inputenc Error: Unicode character 期 (U+671F)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 }
+      
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -533,7 +553,7 @@ Package pdftex.def Info: architecture.png  used on input line 84.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[1{D:/ctex/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+[1{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
@@ -606,7 +626,7 @@ LaTeX Warning: Reference `sect:encoder' on page 2 undefined on input line 136.
 
 LaTeX Warning: Reference `sect:ad' on page 2 undefined on input line 141.
 
-[2 <c:/Users/27946/Downloads/Conference-LaTeX-template_10-17-19/architecture.png>]
+[2 <d:/djangohkh/Conference-LaTeX-template_10-17-19/architecture.png>]
 
 LaTeX Warning: Reference `sect:extend' on page 3 undefined on input line 146.
 
@@ -616,7 +636,7 @@ LaTeX Warning: Citation `zeng2014relation' on page 3 undefined on input line 153
 
 LaTeX Warning: Reference `PF' on page 3 undefined on input line 157.
 
-<postion.png, id=16, 235.37938pt x 48.68187pt>
+<postion.png, id=17, 235.37938pt x 48.68187pt>
 File: postion.png Graphic file (type png)
 <use postion.png>
 Package pdftex.def Info: postion.png  used on input line 160.
@@ -627,7 +647,7 @@ LaTeX Warning: Citation `zeng2015distant' on page 3 undefined on input line 177.
 
 LaTeX Warning: Reference `Architecture PCNN' on page 3 undefined on input line 179.
 
-<PCNN.png, id=17, 697.60625pt x 487.32062pt>
+<PCNN.png, id=18, 697.60625pt x 487.32062pt>
 File: PCNN.png Graphic file (type png)
 <use PCNN.png>
 Package pdftex.def Info: PCNN.png  used on input line 182.
@@ -641,7 +661,7 @@ LaTeX Warning: Reference `Architecture PCNN' on page 3 undefined on input line 1
 
 LaTeX Warning: Reference `Architecture PCNN' on page 3 undefined on input line 212.
 
-[3 <c:/Users/27946/Downloads/Conference-LaTeX-template_10-17-19/postion.png> <c:/Users/27946/Downloads/Conference-LaTeX-template_10-17-19/PCNN.png>]
+[3 <d:/djangohkh/Conference-LaTeX-template_10-17-19/postion.png> <d:/djangohkh/Conference-LaTeX-template_10-17-19/PCNN.png>]
 
 LaTeX Warning: Citation `im2016generating' on page 4 undefined on input line 239.
 
@@ -654,8 +674,8 @@ LaTeX Warning: Citation `Wang2019AdversarialTF' on page 4 undefined on input lin
 
 LaTeX Warning: Citation `JMLR:v15:srivastava14a' on page 4 undefined on input line 301.
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 307.
-("C:\Users\27946\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 307.
+(c:/texlive/2019/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 
@@ -668,14 +688,14 @@ LaTeX Warning: Citation `hendrickx2009semeval' on page 5 undefined on input line
 
 LaTeX Warning: Reference `Data distribution' on page 5 undefined on input line 331.
 
-<Datadistribution.png, id=34, 462.528pt x 344.0052pt>
+<Datadistribution.png, id=35, 462.528pt x 344.0052pt>
 File: Datadistribution.png Graphic file (type png)
 <use Datadistribution.png>
 Package pdftex.def Info: Datadistribution.png  used on input line 335.
 (pdftex.def)             Requested size: 227.6217pt x 170.71614pt.
 
 Underfull \hbox (badness 1484) in paragraph at lines 322--340
-[]\OT1/ptm/m/n/10 To e-val-u-ate the per-for-mance of our mod-el, we con-
+[]\OT1/ptm/m/n/10 To eval-u-ate the per-for-mance of our model, we con-
  []
 
 
@@ -733,7 +753,7 @@ LaTeX Warning: Reference `case study' on page 5 undefined on input line 405.
 
 LaTeX Warning: Reference `subsect:hyper' on page 5 undefined on input line 406.
 
-[5 <c:/Users/27946/Downloads/Conference-LaTeX-template_10-17-19/Datadistribution.png>]
+[5 <d:/djangohkh/Conference-LaTeX-template_10-17-19/Datadistribution.png>]
 No file conference_101719.bbl.
 
 ** Conference Paper **
@@ -748,7 +768,7 @@ Before submitting the final camera ready copy, remember to:
 
 [6
 
-] (c:\Users\27946\Downloads\Conference-LaTeX-template_10-17-19\conference_101719.aux)
+] (d:/djangohkh/Conference-LaTeX-template_10-17-19/conference_101719.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -757,17 +777,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 4475 strings out of 494862
- 66841 string characters out of 3177363
- 134852 words of memory out of 3000000
- 8046 multiletter control sequences out of 15000+200000
- 52026 words of font info for 111 fonts, out of 3000000 for 9000
- 14 hyphenation exceptions out of 8191
- 41i,15n,35p,647b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/27946/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (6 pages, 301191 bytes).
+ 4759 strings out of 492167
+ 68281 string characters out of 6129158
+ 142496 words of memory out of 5000000
+ 9041 multiletter control sequences out of 15000+600000
+ 52026 words of font info for 111 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,15n,37p,639b,304s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on d:/djangohkh/Conference-LaTeX-template_10-17-19/conference_101719.pdf (6 pages, 288107 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
